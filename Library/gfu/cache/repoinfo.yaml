@@ -13,8 +13,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 1
-  lastUpdatedAtString: 2021-01-30T12:50:13.977-05:00
-  initializedAtString: 2021-01-30T12:48:09.305-05:00
+  lastUpdatedAtString: 2021-01-30T13:02:45.369-05:00
+  initializedAtString: 2021-01-30T13:02:45.369-05:00
   currentGitRemote:
     name: origin
     url: https://github.com/yurin-chama/kakkokai
