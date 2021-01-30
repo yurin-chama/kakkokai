@@ -1,0 +1,17 @@
+character
+    actions
+        dash
+        attack
+        jump
+    variables
+        fortitude
+        health
+        move_speed
+        jump_force
+    
+    
+attack
+    damage
+    break_force
+    break_dir
+    
