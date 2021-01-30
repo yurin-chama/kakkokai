@@ -13,9 +13,111 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2021-01-30T13:02:45.381-05:00
-  initializedAtString: 2021-01-30T13:02:45.381-05:00
+  lastUpdatedAtString: 2021-01-30T13:46:41.253-05:00
+  initializedAtString: 2021-01-30T13:46:41.253-05:00
   log:
+  - commitID: 19d55365d9c63570e6f9acfdccd65da168d465d4
+    mergeA: 
+    mergeB: 
+    authorName: yurin-chama
+    authorEmail: yurinchama@protonmail.com
+    commitEmail: yurinchama@protonmail.com
+    commitName: yurin-chama
+    summary: test2
+    description: 
+    timeString: 2021-01-30T13:35:58.000-05:00
+    commitTimeString: 2021-01-30T13:35:58.000-05:00
+    changes:
+    - path: Library/ArtifactDB
+      fullPath: /home/james/kako-kai/Library/ArtifactDB
+      projectPath: Library/ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 0ecb3269a4b707bb8c850cc873914b6220440d5b
+    mergeA: 
+    mergeB: 
+    authorName: yurin-chama
+    authorEmail: yurinchama@protonmail.com
+    commitEmail: yurinchama@protonmail.com
+    commitName: yurin-chama
+    summary: test
+    description: 
+    timeString: 2021-01-30T13:03:52.000-05:00
+    commitTimeString: 2021-01-30T13:03:52.000-05:00
+    changes:
+    - path: Library/ArtifactDB
+      fullPath: /home/james/kako-kai/Library/ArtifactDB
+      projectPath: Library/ArtifactDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/ArtifactDB-lock
+      fullPath: /home/james/kako-kai/Library/ArtifactDB-lock
+      projectPath: Library/ArtifactDB-lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/CurrentLayout-default.dwlt
+      fullPath: /home/james/kako-kai/Library/CurrentLayout-default.dwlt
+      projectPath: Library/CurrentLayout-default.dwlt
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/EditorInstance.json
+      fullPath: /home/james/kako-kai/Library/EditorInstance.json
+      projectPath: Library/EditorInstance.json
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/SourceAssetDB
+      fullPath: /home/james/kako-kai/Library/SourceAssetDB
+      projectPath: Library/SourceAssetDB
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/SourceAssetDB-lock
+      fullPath: /home/james/kako-kai/Library/SourceAssetDB-lock
+      projectPath: Library/SourceAssetDB-lock
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/branches.yaml
+      fullPath: /home/james/kako-kai/Library/gfu/cache/branches.yaml
+      projectPath: Library/gfu/cache/branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitlog.yaml
+      fullPath: /home/james/kako-kai/Library/gfu/cache/gitlog.yaml
+      projectPath: Library/gfu/cache/gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gitstatusentries.yaml
+      fullPath: /home/james/kako-kai/Library/gfu/cache/gitstatusentries.yaml
+      projectPath: Library/gfu/cache/gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gittrackingstatus.yaml
+      fullPath: /home/james/kako-kai/Library/gfu/cache/gittrackingstatus.yaml
+      projectPath: Library/gfu/cache/gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/gituser.yaml
+      fullPath: /home/james/kako-kai/Library/gfu/cache/gituser.yaml
+      projectPath: Library/gfu/cache/gituser.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library/gfu/cache/repoinfo.yaml
+      fullPath: /home/james/kako-kai/Library/gfu/cache/repoinfo.yaml
+      projectPath: Library/gfu/cache/repoinfo.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: 17d04b5317b2914e484f6fe76b6bd4d4a3402bca
     mergeA: 
     mergeB: 
